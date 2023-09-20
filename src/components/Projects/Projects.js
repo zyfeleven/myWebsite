@@ -6,7 +6,7 @@ import writing from "../../Assets/Projects/writing.jpg";
 import GNN from "../../Assets/Projects/sumo_map2.png";
 import chess from "../../Assets/Projects/chess.jpg";
 import war from "../../Assets/Projects/war_of_villages.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import sql from "../../Assets/Projects/sql.png";
 
 function Projects() {
   return (
@@ -25,7 +25,7 @@ function Projects() {
               isBlog={false}
               hasGithub={true}
               title="Chess game"
-              description="A chess game developed by Java. Support PVP or PVAI. The AI is implemented using minimax algorithm with alpha-beta purning. "
+              description="A chess game created using Java that allows player-versus-player or player-versus-AI gameplay. The AI is designed using the minimax algorithm, enhanced with alpha-beta pruning for efficiency. "
               ghLink="https://github.com/zyfeleven/chessProject"
             />
           </Col>
@@ -36,7 +36,7 @@ function Projects() {
               isBlog={false}
               hasGithub={true}
               title="Blog Website"
-              description="A blog website with user-authentication system. Utilizing React&Redux and Bootstrap in the frontend. MangoDB is used for information management. Utilizing RESTful APIs between frontend and backend."
+              description="A blog website that includes a user login system. Use React and Redux for the front-end and Bootstrap for styling. MongoDB manages the data, and I connect the front-end and back-end using express and RESTful APIs."
               ghLink="https://github.com/zyfeleven/blog-website"
             />  
           </Col>
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               hasGithub={false}
               title="English-learning Website"
-              description="An English-learning website for Chinese students, specilized for IELTS writing evaluation. As a member in the front-end team, desgin and implement reliable React components for user interactions."
+              description="A website that helps Chinese students learn English, focusing on evaluating their IELTS writing skills. As part of the front-end team, I design and build dependable React components to enhance user interactions."
             />  
           </Col>
 
@@ -58,7 +58,18 @@ function Projects() {
               hasGithub={true}
               title="Java text game: War of Villages"
               ghLink="https://github.com/zyfeleven/VillageGame"
-              description="A java text game following MVC architecture and OOP paradigim."
+              description="A java text game following MVC architecture and OOP paradigim. It's planned to be real time, interactive by implementing TCP."
+            />  
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={sql}
+              isBlog={false}
+              hasGithub={true}
+              title="SQL tables and triggers design"
+              ghLink="https://github.com/zyfeleven/SQL-group-project"
+              description="Working as part of a team, we designed and developed a dependable database using PL/pgSQL. We implemented and tested the database on a Linux system."
             />  
           </Col>
           
