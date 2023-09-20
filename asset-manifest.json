@@ -1,26 +1,24 @@
 {
   "files": {
     "main.css": "/myWebsite/static/css/main.c9a8cf66.css",
-    "main.js": "/myWebsite/static/js/main.b256961d.js",
+    "main.js": "/myWebsite/static/js/main.78fb326f.js",
     "static/js/787.1ed0c42c.chunk.js": "/myWebsite/static/js/787.1ed0c42c.chunk.js",
     "static/media/image1.jpg": "/myWebsite/static/media/image1.666156ceb02a26eae749.jpg",
-    "static/media/leaf.png": "/myWebsite/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/myWebsite/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/myWebsite/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/resume.pdf": "/myWebsite/static/media/resume.bb454abb4f10b76ff54a.pdf",
+    "static/media/resume.pdf": "/myWebsite/static/media/resume.5b0fc49e58e5aa63b591.pdf",
     "static/media/chess.jpg": "/myWebsite/static/media/chess.0a5341ce1aea9b402022.jpg",
     "static/media/codeEditor.png": "/myWebsite/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/myWebsite/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/about.png": "/myWebsite/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/writing.jpg": "/myWebsite/static/media/writing.2436ba4c9586a94d9a9b.jpg",
     "static/media/avatar.svg": "/myWebsite/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/myWebsite/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/myWebsite/index.html",
     "main.c9a8cf66.css.map": "/myWebsite/static/css/main.c9a8cf66.css.map",
-    "main.b256961d.js.map": "/myWebsite/static/js/main.b256961d.js.map",
+    "main.78fb326f.js.map": "/myWebsite/static/js/main.78fb326f.js.map",
     "787.1ed0c42c.chunk.js.map": "/myWebsite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9a8cf66.css",
-    "static/js/main.b256961d.js"
+    "static/js/main.78fb326f.js"
   ]
 }
