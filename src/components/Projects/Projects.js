@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import blog from "../../Assets/Projects/blog.png";
 import writing from "../../Assets/Projects/writing.jpg";
-import editor from "../../Assets/Projects/codeEditor.png";
+import GNN from "../../Assets/Projects/sumo_map2.png";
 import chess from "../../Assets/Projects/chess.jpg";
-import suicide from "../../Assets/Projects/suicide.png";
+import war from "../../Assets/Projects/war_of_villages.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
@@ -18,7 +18,7 @@ function Projects() {
         <p style={{ color: "black" }}>
           Here are a few projects I've worked on recently.
         </p>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Row style={{ justifyContent: "left", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chess}
@@ -50,6 +50,17 @@ function Projects() {
               description="An English-learning website for Chinese students, specilized for IELTS writing evaluation. As a member in the front-end team, desgin and implement reliable React components for user interactions."
             />  
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={war}
+              isBlog={false}
+              hasGithub={true}
+              title="Java text game: War of Villages"
+              ghLink="https://github.com/zyfeleven/VillageGame"
+              description="A java text game following MVC architecture and OOP paradigim."
+            />  
+          </Col>
           
           
         </Row>
@@ -59,7 +70,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "30px" }}>
         <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={writing}
+              imgPath={GNN}
               isBlog={false}
               hasGithub={false}
               title="Apply GNN in Vehicle Edge Computing"
