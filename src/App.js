@@ -31,7 +31,7 @@ function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <Preloader load={load} />
-      <div className="App" id={load ? "no-scroll" : "scroll"}>
+      <div className="App">
         <Navbar />
         <ScrollToTop />
         <Routes>

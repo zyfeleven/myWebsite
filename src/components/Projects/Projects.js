@@ -19,6 +19,18 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "left", paddingBottom: "10px" }}>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chess}
+              isBlog={false}
+              hasGithub={true}
+              title="Habit tracker website"
+              ghLink="https://github.com/kphillippo/habit-tracker"
+              description="A well-designed website for habit-tracking where you become better yourself and find some friends with same hobbies. "
+            />  
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chess}
