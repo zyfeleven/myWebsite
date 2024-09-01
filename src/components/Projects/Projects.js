@@ -97,9 +97,9 @@ function Projects() {
               imgPath={GNN}
               isBlog={false}
               hasGithub={false}
-              title="Apply GNN in Vehicle Edge Computing"
-              description="Worked closely with a professor and masters student to conduct research on the application of 
-              Graph Neural Networks (GNN) in the domain of Vehicle Edge Computing."
+              title="GNN for Managing High-Mobility Vehicular Edge Networks"
+              ghLink="https://github.com/zyfeleven/veins_with_GNN"
+              description="Explore the application of Graph Neural Networks (GNNs) as a solution to the resource allocation optimization problem within the VEC framework."
             />  
           </Col>
         </Row>
