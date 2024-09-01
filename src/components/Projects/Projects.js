@@ -7,6 +7,7 @@ import GNN from "../../Assets/Projects/sumo_map2.png";
 import chess from "../../Assets/Projects/chess.jpg";
 import war from "../../Assets/Projects/war_of_villages.png";
 import sql from "../../Assets/Projects/sql.png";
+import habit from "../../Assets/Projects/habittracker.png";
 
 function Projects() {
   return (
@@ -22,7 +23,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chess}
+              imgPath={habit}
               isBlog={false}
               hasGithub={true}
               title="Habit tracker website"
