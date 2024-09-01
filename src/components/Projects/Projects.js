@@ -96,7 +96,7 @@ function Projects() {
             <ProjectCard
               imgPath={GNN}
               isBlog={false}
-              hasGithub={false}
+              hasGithub={true}
               title="GNN for Managing High-Mobility Vehicular Edge Networks"
               ghLink="https://github.com/zyfeleven/veins_with_GNN"
               description="Explore the application of Graph Neural Networks (GNNs) as a solution to the resource allocation optimization problem within the VEC framework."
