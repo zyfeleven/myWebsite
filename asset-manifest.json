@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/myWebsite/static/css/main.f4e7f055.css",
-    "main.js": "/myWebsite/static/js/main.e7ccf83b.js",
+    "main.js": "/myWebsite/static/js/main.ab3932e8.js",
     "static/js/787.1ed0c42c.chunk.js": "/myWebsite/static/js/787.1ed0c42c.chunk.js",
     "static/media/image1.jpg": "/myWebsite/static/media/image1.666156ceb02a26eae749.jpg",
     "static/media/war_of_villages.png": "/myWebsite/static/media/war_of_villages.bdb4760e4e6f9fde9e34.png",
+    "static/media/habittracker.png": "/myWebsite/static/media/habittracker.485f6cc33b057e61a872.png",
     "static/media/resume.pdf": "/myWebsite/static/media/resume.03d819477cba62fa0fd3.pdf",
     "static/media/chess.jpg": "/myWebsite/static/media/chess.0a5341ce1aea9b402022.jpg",
     "static/media/sumo_map2.png": "/myWebsite/static/media/sumo_map2.4fd7cdf607db22a7854c.png",
@@ -15,11 +16,11 @@
     "static/media/pre.svg": "/myWebsite/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/myWebsite/index.html",
     "main.f4e7f055.css.map": "/myWebsite/static/css/main.f4e7f055.css.map",
-    "main.e7ccf83b.js.map": "/myWebsite/static/js/main.e7ccf83b.js.map",
+    "main.ab3932e8.js.map": "/myWebsite/static/js/main.ab3932e8.js.map",
     "787.1ed0c42c.chunk.js.map": "/myWebsite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4e7f055.css",
-    "static/js/main.e7ccf83b.js"
+    "static/js/main.ab3932e8.js"
   ]
 }
