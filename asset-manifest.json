@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/myWebsite/static/css/main.f4e7f055.css",
-    "main.js": "/myWebsite/static/js/main.89d79152.js",
+    "main.js": "/myWebsite/static/js/main.c10b8981.js",
     "static/js/787.1ed0c42c.chunk.js": "/myWebsite/static/js/787.1ed0c42c.chunk.js",
     "static/media/image1.jpg": "/myWebsite/static/media/image1.666156ceb02a26eae749.jpg",
     "static/media/war_of_villages.png": "/myWebsite/static/media/war_of_villages.bdb4760e4e6f9fde9e34.png",
-    "static/media/habittracker.png": "/myWebsite/static/media/habittracker.485f6cc33b057e61a872.png",
     "static/media/resume.pdf": "/myWebsite/static/media/resume.03d819477cba62fa0fd3.pdf",
     "static/media/chess.jpg": "/myWebsite/static/media/chess.0a5341ce1aea9b402022.jpg",
     "static/media/sumo_map2.png": "/myWebsite/static/media/sumo_map2.4fd7cdf607db22a7854c.png",
     "static/media/sql.png": "/myWebsite/static/media/sql.c8891cc79d21bc263a06.png",
     "static/media/about.png": "/myWebsite/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/habittracker.png": "/myWebsite/static/media/habittracker.bcb7b090deae3218b451.png",
     "static/media/writing.jpg": "/myWebsite/static/media/writing.2436ba4c9586a94d9a9b.jpg",
     "static/media/avatar.svg": "/myWebsite/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/myWebsite/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/myWebsite/index.html",
     "main.f4e7f055.css.map": "/myWebsite/static/css/main.f4e7f055.css.map",
-    "main.89d79152.js.map": "/myWebsite/static/js/main.89d79152.js.map",
+    "main.c10b8981.js.map": "/myWebsite/static/js/main.c10b8981.js.map",
     "787.1ed0c42c.chunk.js.map": "/myWebsite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4e7f055.css",
-    "static/js/main.89d79152.js"
+    "static/js/main.c10b8981.js"
   ]
 }
