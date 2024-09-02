@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myWebsite/static/css/main.f4e7f055.css",
-    "main.js": "/myWebsite/static/js/main.c10b8981.js",
+    "main.css": "/myWebsite/static/css/main.3c56c6fe.css",
+    "main.js": "/myWebsite/static/js/main.f0683709.js",
     "static/js/787.1ed0c42c.chunk.js": "/myWebsite/static/js/787.1ed0c42c.chunk.js",
     "static/media/image1.jpg": "/myWebsite/static/media/image1.666156ceb02a26eae749.jpg",
     "static/media/war_of_villages.png": "/myWebsite/static/media/war_of_villages.bdb4760e4e6f9fde9e34.png",
@@ -15,12 +15,12 @@
     "static/media/avatar.svg": "/myWebsite/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/myWebsite/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/myWebsite/index.html",
-    "main.f4e7f055.css.map": "/myWebsite/static/css/main.f4e7f055.css.map",
-    "main.c10b8981.js.map": "/myWebsite/static/js/main.c10b8981.js.map",
+    "main.3c56c6fe.css.map": "/myWebsite/static/css/main.3c56c6fe.css.map",
+    "main.f0683709.js.map": "/myWebsite/static/js/main.f0683709.js.map",
     "787.1ed0c42c.chunk.js.map": "/myWebsite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4e7f055.css",
-    "static/js/main.c10b8981.js"
+    "static/css/main.3c56c6fe.css",
+    "static/js/main.f0683709.js"
   ]
 }
