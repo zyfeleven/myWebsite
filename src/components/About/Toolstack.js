@@ -18,6 +18,15 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiJetbrains />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">GitHub Actions</span>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">Docker</span>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">JIRA</span>
+      </Col>
     </Row>
   );
 }

@@ -52,6 +52,34 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">TS</span>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">GCP</span>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">SQLite</span>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">Prisma</span>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">PyTorch</span>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">OR-Tools</span>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <span className="tech-label">LLM APIs</span>
+      </Col>
       
     </Row>
   );

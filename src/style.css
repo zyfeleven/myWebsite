@@ -567,6 +567,20 @@ button:focus {
   transition: all 0.4s ease 0s !important;
 }
 
+.tech-label {
+  align-items: center;
+  display: flex;
+  font-size: 0.23em;
+  font-weight: 700;
+  height: 72px;
+  justify-content: center;
+  line-height: 1.2;
+  padding: 0 6px;
+  text-align: center;
+  width: 100%;
+  word-break: break-word;
+}
+
 @media (max-width: 767px) {
   .tech-icons {
     margin: 10px !important;
